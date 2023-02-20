@@ -10,7 +10,7 @@
     justify-self: space-around;
     width: 1200px;
     height: 822px;
-    background-image: url("/assets/Desktop_Backgrounds_1920x1200_6\ 3.png");
+    background-image: url("../assets/Desktop_Backgrounds_1920x1200_6\ 3.png");
 }
 
 .hero h2{
@@ -46,7 +46,7 @@
 .learn__more-container{
     width: 1200px;
     height: 666px;
-    background-image: url("/assets/IMG_1334_72dpi_RGB_\ 1.png");
+    background-image: url("../assets/IMG_1334_72dpi_RGB_\ 1.png");
 }
 footer{
     width: 1200px;
